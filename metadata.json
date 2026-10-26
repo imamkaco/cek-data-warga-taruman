@@ -1,0 +1,6 @@
+{
+  "name": "Cek Data Warga Desa Taruman",
+  "description": "Aplikasi cek dan kelola data warga Desa Taruman untuk publik dan admin desa, ringan dan responsif di smartphone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
